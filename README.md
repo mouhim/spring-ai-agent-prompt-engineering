@@ -6,3 +6,4 @@ your answer should include the name of the CEO, number of employees in all over 
 also add concise conclusion about financial analysis
 
 Based on Java 21, Spring boot 3, Spring Ai, gpt-4o and ollama 3
+Frontend : Vaadin, Hilla, reactJs
